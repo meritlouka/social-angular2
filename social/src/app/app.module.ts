@@ -24,11 +24,10 @@ import { fakeBackendProvider } from './_helpers/index';
 @NgModule({
   declarations: [
     AppComponent,
-
-        AlertComponent
-        HomeComponent,
-        LoginComponent,
-        RegisterComponent
+    AlertComponent,
+    HomeComponent,
+    LoginComponent,
+    RegisterComponent
   ],
   imports: [
         BrowserModule,
